@@ -6,10 +6,11 @@
         "terralith:skylands_autumn",
         "terralith:volcanic_crater",
         "terralith:volcanic_peaks",
-        "biomeswevegone:boreal_forest",
-        "biomeswevegone:pine_clearing",
-        "biomeswevegone:rocky_woodland",
-        "biomeswevegone:volcanic_peaks",
-        "biomeswevegone:black_forest"
+        "biomeswevegone:black_forest",
+        "biomeswevegone:canadian_shield",
+        "biomeswevegone:redwood_thicket",
+        "biomeswevegone:temperate_grove",
+        "biomeswevegone:skyris_vale",
+        "biomeswevegone:aspen_boreal"
     ]
 }

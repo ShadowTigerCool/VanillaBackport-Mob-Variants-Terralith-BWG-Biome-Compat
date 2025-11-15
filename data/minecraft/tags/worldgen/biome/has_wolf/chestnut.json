@@ -14,10 +14,6 @@
         "terralith:sakura_grove",
         "terralith:sakura_valley",
         "terralith:stony_spires",
-        "biomeswevegone:cherry_blossom_forest",
-        "biomeswevegone:flowering_grove",
-        "biomeswevegone:temperate_rainforest",
-        "biomeswevegone:maple_taiga",
-        "biomeswevegone:autumnal_valley"
+        "biomeswevegone:maple_taiga"
     ]
 }

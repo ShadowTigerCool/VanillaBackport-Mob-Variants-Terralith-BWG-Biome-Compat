@@ -10,10 +10,8 @@
         "terralith:lush_desert",
         "terralith:red_oasis",
         "terralith:sandstone_valley",
-        "biomeswevegone:red_desert",
-        "biomeswevegone:rocky_badlands",
-        "biomeswevegone:dried_river",
-        "biomeswevegone:crimson_garden"
+        "biomeswevegone:red_rock_peaks",
+        "biomeswevegone:red_rock_valley"
     ]
 }
 

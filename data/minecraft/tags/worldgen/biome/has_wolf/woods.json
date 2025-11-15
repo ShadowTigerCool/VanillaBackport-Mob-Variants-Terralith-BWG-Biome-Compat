@@ -2,18 +2,16 @@
     "values": [
         "terralith:highlands",
         "terralith:lush_valley",
-        "terralith:maple_forest",
-        "terralith:cherry_grove",
-        "terralith:pine_forest",
-        "terralith:rainforest",
-        "terralith:flower_forest",
-        "terralith:ancient_forest",
-        "terralith:skylands_autumn",
-        "terralith:skylands_summer",
-        "biomeswevegone:whispering_forest",
+        "terralith:shield_clearing",
+        "terralith:shield",
+        "terralith:steppe",
+        "terralith:valley_clearing",
+        "terralith:skylands",
+        "terralith:warm_river",
         "biomeswevegone:orchard",
         "biomeswevegone:temperate_grove",
         "biomeswevegone:redwood_thicket",
-        "biomeswevegone:fungal_forest"
+        "biomeswevegone:tropical_rainforest",
+        "biomeswevegone:coniferous_forest"
     ]
 }
