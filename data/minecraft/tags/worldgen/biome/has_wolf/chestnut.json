@@ -1,0 +1,23 @@
+{
+    "values": [
+        "terralith:ashen_savanna",
+        "terralith:birch_taiga",
+        "terralith:yellowstone",
+        "terralith:skylands_spring",
+        "terralith:alpha_islands",
+        "terralith:blooming_valley",
+        "terralith:lavender_forest",
+        "terralith:lavender_valley",
+        "terralith:mirage_isles",
+        "terralith:moonlight_grove",
+        "terralith:moonlight_valley",
+        "terralith:sakura_grove",
+        "terralith:sakura_valley",
+        "terralith:stony_spires",
+        "biomeswevegone:cherry_blossom_forest",
+        "biomeswevegone:flowering_grove",
+        "biomeswevegone:temperate_rainforest",
+        "biomeswevegone:maple_taiga",
+        "biomeswevegone:autumnal_valley"
+    ]
+}

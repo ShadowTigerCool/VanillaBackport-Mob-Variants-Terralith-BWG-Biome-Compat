@@ -1,0 +1,19 @@
+{
+    "values": [
+        "terralith:highlands",
+        "terralith:lush_valley",
+        "terralith:maple_forest",
+        "terralith:cherry_grove",
+        "terralith:pine_forest",
+        "terralith:rainforest",
+        "terralith:flower_forest",
+        "terralith:ancient_forest",
+        "terralith:skylands_autumn",
+        "terralith:skylands_summer",
+        "biomeswevegone:whispering_forest",
+        "biomeswevegone:orchard",
+        "biomeswevegone:temperate_grove",
+        "biomeswevegone:redwood_thicket",
+        "biomeswevegone:fungal_forest"
+    ]
+}

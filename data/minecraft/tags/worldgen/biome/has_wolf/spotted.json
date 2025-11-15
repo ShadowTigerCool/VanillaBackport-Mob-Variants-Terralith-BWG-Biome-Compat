@@ -1,0 +1,25 @@
+{
+    "values": [
+        "terralith:gravel_beach",
+        "terralith:hot_shrubland",
+        "terralith:orchid_swamp",
+        "terralith:temperate_highlands",
+        "terralith:amethyst_canyon",
+        "terralith:amethyst_rainforest",
+        "terralith:jungle_mountains",
+        "terralith:rocky_jungle",
+        "terralith:tropical_jungle",
+        "terralith:painted_mountains",
+        "terralith:brushland",
+        "terralith:shrubland",
+        "terralith:arid_highlands",
+        "terralith:warped_mesa",
+        "terralith:white_mesa",
+        "terralith:bryce_canyon",
+        "biomeswevegone:baobab_savanna",
+        "biomeswevegone:shrubland",
+        "biomeswevegone:rocky_vineyard",
+        "biomeswevegone:arid_scrubland"
+    ]
+}
+
