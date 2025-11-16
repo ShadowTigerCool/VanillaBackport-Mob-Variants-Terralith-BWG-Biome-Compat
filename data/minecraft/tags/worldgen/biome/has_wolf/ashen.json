@@ -1,24 +1,23 @@
 {
-    "values": [
-        "minecraft:snowy_beach",
-        "terralith:snowy_badlands",
-        "terralith:emerald_peaks",
-        "terralith:scarlet_mountains",
-        "terralith:snowy_cherry_grove",
-        "terralith:snowy_maple_forest",
-        "terralith:snowy_shield",
-        "terralith:cold_shrubland",
-        "terralith:gravel_desert",
-        "terralith:ice_marsh",
-        "terralith:rocky_shrubland",
-        "terralith:windswept_spires",
-        "terralith:cloud_forest",
-        "terralith:yosemite_lowlands",
-        "terralith:haze_mountain",
-        "terralith:rocky_mountains",
-        "biomeswevegone:aspen_boreal",
-        "biomeswevegone:canadian_shield",
-        "biomeswevegone:crimson_tundra"
-    ]
+  "replace": false,
+  "values": [
+    {"id": "minecraft:snowy_beach", "required": false},
+    {"id": "terralith:snowy_badlands", "required": false},
+    {"id": "terralith:emerald_peaks", "required": false},
+    {"id": "terralith:scarlet_mountains", "required": false},
+    {"id": "terralith:snowy_cherry_grove", "required": false},
+    {"id": "terralith:snowy_maple_forest", "required": false},
+    {"id": "terralith:snowy_shield", "required": false},
+    {"id": "terralith:cold_shrubland", "required": false},
+    {"id": "terralith:gravel_desert", "required": false},
+    {"id": "terralith:ice_marsh", "required": false},
+    {"id": "terralith:rocky_shrubland", "required": false},
+    {"id": "terralith:windswept_spires", "required": false},
+    {"id": "terralith:cloud_forest", "required": false},
+    {"id": "terralith:yosemite_lowlands", "required": false},
+    {"id": "terralith:haze_mountain", "required": false},
+    {"id": "terralith:rocky_mountains", "required": false},
+    {"id": "biomeswevegone:crimson_tundra", "required": false}
+  ]
 }
 

@@ -1,14 +1,13 @@
 {
-    "values": [
-        "terralith:granite_cliffs",
-        "terralith:white_cliffs",
-        "terralith:mountain_steppe",
-        "terralith:alpine_highlands",
-        "terralith:caldera",
-        "terralith:basalt_cliffs",
-        "terralith:blooming_plateau",
-        "terralith:skylands_summer",
-        "biomeswevegone:crag_gardens"
-    ]
+  "replace": false,
+  "values": [
+    {"id": "terralith:rocky_jungle", "required": false},
+    {"id": "terralith:jungle_mountains", "required": false},
+    {"id": "terralith:tropical_jungle", "required": false},
+    {"id": "terralith:amethyst_rainforest", "required": false},
+    {"id": "terralith:amethyst_canyon", "required": false},
+    {"id": "#biomeswevegone:jungle", "required": false}
+  ]
 }
+
 

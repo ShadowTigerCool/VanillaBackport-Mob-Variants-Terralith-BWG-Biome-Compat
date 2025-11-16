@@ -9,8 +9,9 @@
         "terralith:glacial_chasm",
         "terralith:skylands_winter",
         "terralith:siberian_grove",
-        "biomeswevegone:crimson_tundra",
-        "biomeswevegone:maple_taiga",
-        "biomeswevegone:aspen_boreal"
+        "terralith:snowy_cherry_grove",
+        "terralith:snowy_maple_forest",
+        "biomeswevegone:eroded_borealis",
+        "biomeswevegone:howling_peaks"
     ]
 }

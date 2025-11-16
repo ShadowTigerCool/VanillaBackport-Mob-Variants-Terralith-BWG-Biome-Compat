@@ -1,16 +1,14 @@
 {
-    "values": [
-        "terralith:siberian_taiga",
-        "terralith:forested_highlands",
-        "terralith:yosemite_cliffs",
-        "terralith:skylands_autumn",
-        "terralith:volcanic_crater",
-        "terralith:volcanic_peaks",
-        "biomeswevegone:black_forest",
-        "biomeswevegone:canadian_shield",
-        "biomeswevegone:redwood_thicket",
-        "biomeswevegone:temperate_grove",
-        "biomeswevegone:skyris_vale",
-        "biomeswevegone:aspen_boreal"
-    ]
+  "replace": false,
+  "values": [
+    {"id": "terralith:siberian_taiga", "required": false},
+    {"id": "terralith:forested_highlands", "required": false},
+    {"id": "terralith:yosemite_cliffs", "required": false},
+    {"id": "terralith:skylands_autumn", "required": false},
+    {"id": "terralith:volcanic_crater", "required": false},
+    {"id": "terralith:volcanic_peaks", "required": false},
+    {"id": "biomeswevegone:black_forest", "required": false},
+    {"id": "biomeswevegone:temperate_grove", "required": false}
+  ]
 }
+
