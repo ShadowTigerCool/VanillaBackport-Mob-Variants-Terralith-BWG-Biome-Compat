@@ -1,17 +1,13 @@
 {
-    "values": [
-        "minecraft:frozen_peaks",
-        "terralith:wintry_forest",
-        "terralith:wintry_lowlands",
-        "terralith:alpine_grove",
-        "terralith:alpha_islands_winter",
-        "terralith:frozen_cliffs",
-        "terralith:glacial_chasm",
-        "terralith:skylands_winter",
-        "terralith:siberian_grove",
-        "terralith:snowy_cherry_grove",
-        "terralith:snowy_maple_forest",
-        "biomeswevegone:eroded_borealis",
-        "biomeswevegone:howling_peaks"
-    ]
+  "replace": false,
+  "values": [
+     "minecraft:grove",
+    {"id": "terralith:siberian_grove", "required": false},
+    {"id": "terralith:snowy_shield", "required": false},
+    {"id": "terralith:snowy_maple_forest", "required": false},
+    {"id": "terralith:snowy_cherry_grove", "required": false},
+    {"id": "biomeswevegone:eroded_borealis", "required": false},
+    {"id": "biomeswevegone:howling_peaks", "required": false}
+  ]
 }
+

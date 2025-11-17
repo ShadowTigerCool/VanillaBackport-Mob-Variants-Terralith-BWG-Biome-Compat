@@ -1,12 +1,11 @@
 {
   "replace": false,
   "values": [
-    {"id": "terralith:siberian_taiga", "required": false},
-    {"id": "terralith:forested_highlands", "required": false},
-    {"id": "terralith:yosemite_cliffs", "required": false},
-    {"id": "terralith:skylands_autumn", "required": false},
-    {"id": "terralith:volcanic_crater", "required": false},
-    {"id": "terralith:volcanic_peaks", "required": false},
+    "minecraft:old_growth_pine_taiga",
+    {"id": "terralith:alpine_highlands", "required": false},
+    {"id": "terralith:birch_taiga", "required": false},
+    {"id": "terralith:cold_shrubland", "required": false},
+    {"id": "terralith:rocky_shrubland", "required": false},
     {"id": "biomeswevegone:black_forest", "required": false},
     {"id": "biomeswevegone:temperate_grove", "required": false}
   ]

@@ -1,22 +1,11 @@
 {
   "replace": false,
   "values": [
-    {"id": "terralith:ashen_savanna", "required": false },
-    {"id": "terralith:birch_taiga", "required": false },
-    {"id": "terralith:yellowstone", "required": false },
-    {"id": "terralith:skylands_spring", "required": false },
-    {"id": "terralith:alpha_islands", "required": false },
-    {"id": "terralith:blooming_valley", "required": false },
-    {"id": "terralith:lavender_forest", "required": false },
-    {"id": "terralith:lavender_valley", "required": false },
-    {"id": "terralith:mirage_isles", "required": false },
-    {"id": "terralith:moonlight_grove", "required": false },
-    {"id": "terralith:moonlight_valley", "required": false },
-    {"id": "terralith:sakura_grove", "required": false },
-    {"id": "terralith:sakura_valley", "required": false },
-    {"id": "terralith:stony_spires", "required": false },
-    {"id": "biomeswevegone:maple_taiga", "required": false },
-    {"id": "biomeswevegone:dacite_ridges", "required": false }
+    "minecraft:old_growth_spruce_taiga",
+    {"id": "terralith:forested_highlands", "required": false},
+    {"id": "terralith:shield", "required": false},
+    {"id": "biomeswevegone:maple_taiga", "required": false},
+    {"id": "biomeswevegone:dacite_ridges", "required": false}
   ]
 }
 
